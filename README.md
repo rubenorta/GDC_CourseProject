@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Project # 
+# Getting and Cleaning Data Course Project 
 
 We only need a script to transform the data. The script is called run_analysis.R. This script execute the cleaning of the data in 5 steps:
 
